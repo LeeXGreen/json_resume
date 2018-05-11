@@ -1,0 +1,142 @@
+{
+  "basics": {
+    "name": "Lee Green",
+    "label": "Software architect, full-stack developer, team lead",
+    "picture": "",
+    "email": "lee.x.green@gmail.com",
+    "phone": "(512) 412-8159",
+    "summary": "Software architect and full-stack developer, experienced in building APIs and backend systems for web and mobile. Proven project and team leader with a history of leading both employees and consultants. Passionate about solving business problems with elegant software solutions. Adept at distilling clear technical specs from user requirements.",
+    "location": {
+      "address": "4411 Spicewood Springs Rd #1805",
+      "postalCode": "78759",
+      "city": "Austin",
+      "countryCode": "US",
+      "region": "Texas"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "LeeXGreen",
+        "url": "https://github.com/LeeXGreen"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "LeeXGreen",
+        "url": "https://www.linkedin.com/in/leexgreen/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Spiceworks",
+      "position": "Staff Software Developer",
+      "location": "Austin",
+      "website": "https://www.spiceworks.com",
+      "startDate": "2014-06-02",
+      "endDate": "2018-05-02",
+      "summary": "Maker of tools and online community for IT pros.\nInitially hired as Senior and promoted at my first review.",
+      "highlights": [
+        "Team Lead of the Infrastructure team, reporting to the CTO",
+        "Project Lead on many high-impact projects",
+        "Optimized performance of flagship web application",
+        "Operated a weekly \"lunch and learn\" talk series",
+        "Created a biweekly backend developer meeting for information sharing and professional development",
+        "Created and taught courses for intern onboarding"
+      ]
+    },
+    {
+      "company": "Lee Green Consulting",
+      "position": "Principal",
+      "location": "Austin",
+      "website": "",
+      "startDate": "2014-03-02",
+      "endDate": "2014-09-02",
+      "summary": "Provide software architecture / development / optimization services",
+      "highlights": [
+        "Designed and built a stateful log parser to turn raw device logs into a rich event stream",
+        "Designed event data model to allow for flexible yet efficient queries",
+        "Built a pipeline to handle these events, including enrichment and delivery to internal/third-party consumers"
+      ]
+    },
+    {
+      "company": "DecisionGrid",
+      "position": "Senior Software Developer",
+      "location": "Austin",
+      "startDate": "2014-03-02",
+      "endDate": "2014-05-02",
+      "summary": "Provider of technology and tools for data and intelligence gathering and visualization.\nThe company ceased operations not long after I came on board.",
+        
+      "highlights": [
+        "Designed and implemented features and bugfixes at all levels of the web stack",
+        "Improved critical-path performance 20% by optimizing database indexes"
+      ]
+    },
+    {
+      "company": "TouchTunes",
+      "position": "Senior Software Developer",
+      "website": "https://www.touchtunes.com",
+      "location": "Montreal, Quebec",
+      "startDate": "2010-03-02",
+      "endDate": "2014-03-02",
+      "summary": "Digital media and jukebox company headquartered in Montreal, Quebec.\nI was the only Barfly engineer asked to relocate to Canada when the Austin office closed.",
+      "highlights": [
+        "The go-to guy for quick solutions, rapid prototyping, and exploration of new tech",
+"Software architect and project lead for multiple 5-6 figure projects",
+"Software architect / lead developer for Barfly / TouchTunesTV digital signage system",
+"Stepped in to lead the mobile / API team for 4 months, including on-time app launch",
+"Advocated for improvements to the development process, including Git and Vagrant"
+      ]
+    },
+    {
+      "company": "Barfly Networks / TouchTunes",
+      "position": "Software Developer",
+      "location": "Austin",
+      "website": "https://www.touchtunes.com",
+      "startDate": "2007-11-02",
+      "endDate": "2010-03-02",
+      "summary": "Digital signage startup focused on the out-of-home market: bars and restaurants.\nAcquired by TouchTunes in September 2008. I was engineer #3 of 5.",
+      "highlights": [
+        "Built our own digital signage system in six months",
+        "Features included dynamic data-driven media, intelligent scheduling and targeting",
+        "Designed and implemented a self-hosted SMS application",
+        "Wore all the hats: client, server, databases, web apps, hardware"
+      ]
+    },
+    {
+      "company": "Pervasive Software",
+      "position": "QA Engineer (contract)",
+      "location": "Austin",
+      "website": "http://www.pervasive.com",
+      "startDate": "2007-02-02",
+      "endDate": "2007-11-02",
+      "summary": "Manual and automated testing of embeddable RDBMS and clients",
+      "highlights": [
+        "Improved testing framework and process",
+        "Automated previously manual stress test"
+      ]
+    },
+    {
+      "company": "Steve Madere Consulting",
+      "position": "Software Developer",
+      "location": "Austin",
+      "startDate": "2004-10-02",
+      "endDate": "2007-02-02",
+      "summary": "",
+      "highlights": [
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Texas at Austin",
+      "area": "Computer Engineering",
+      "studyType": "Bachelor of Science",
+      "startDate": "2002-08-02",
+      "endDate": "2006-08-02",
+      "courses": [
+        "Microprocessor Design",
+        "Software Engineering"
+      ]
+    }
+  ]
+}

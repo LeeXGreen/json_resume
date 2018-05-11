@@ -1,0 +1,4 @@
+*.sw*
+public/
+*.html
+*.pdf
