@@ -58,7 +58,8 @@
       "keywords": [
         "Code Reviews",
         "1-on-1s",
-        "Coaching"
+        "Coaching",
+        "Mentoring"
       ]
     }
   ],
@@ -145,7 +146,7 @@
       "website": "http://www.pervasive.com",
       "startDate": "2007-02-02",
       "endDate": "2007-11-02",
-      "summary": "Manual and automated testing of embeddable RDBMS and clients",
+      "summary": "Manual and automated testing of embeddable RDBMS and clients.",
       "highlights": [
         "Improved testing framework and process",
         "Automated previously manual stress test"
@@ -157,8 +158,11 @@
       "location": { "city": "Austin", "region": "Texas"},
       "startDate": "2004-10-02",
       "endDate": "2007-02-02",
-      "summary": "",
+      "summary": "One-person consulting shop. Worked on internal and client projects.\nI started working part-time while in school and continued full-time after graduation.",
       "highlights": [
+        "Programmed in Perl, bash, C++ (STL)",
+        "Performed internet / market research and basic modeling",
+        "Set up and maintained a local server"
       ]
     }
   ],
