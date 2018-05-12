@@ -30,7 +30,7 @@
     {
       "company": "Spiceworks",
       "position": "Staff Software Developer",
-      "location": "Austin",
+      "location": { "city": "Austin", "region": "Texas"},
       "website": "https://www.spiceworks.com",
       "startDate": "2014-06-02",
       "endDate": "2018-05-02",
@@ -47,7 +47,7 @@
     {
       "company": "Lee Green Consulting",
       "position": "Principal",
-      "location": "Austin",
+      "location": { "city": "Austin", "region": "Texas"},
       "website": "",
       "startDate": "2014-03-02",
       "endDate": "2014-09-02",
@@ -61,7 +61,7 @@
     {
       "company": "DecisionGrid",
       "position": "Senior Software Developer",
-      "location": "Austin",
+      "location": { "city": "Austin", "region": "Texas"},
       "startDate": "2014-03-02",
       "endDate": "2014-05-02",
       "summary": "Provider of technology and tools for data and intelligence gathering and visualization.\nThe company ceased operations not long after I came on board.",
@@ -75,7 +75,7 @@
       "company": "TouchTunes",
       "position": "Senior Software Developer",
       "website": "https://www.touchtunes.com",
-      "location": "Montreal, Quebec",
+      "location": { "city": "Montreal", "countryCode": "CA", "region": "Quebec"},
       "startDate": "2010-03-02",
       "endDate": "2014-03-02",
       "summary": "Digital media and jukebox company headquartered in Montreal, Quebec.\nI was the only Barfly engineer asked to relocate to Canada when the Austin office closed.",
@@ -90,7 +90,7 @@
     {
       "company": "Barfly Networks / TouchTunes",
       "position": "Software Developer",
-      "location": "Austin",
+      "location": { "city": "Austin", "region": "Texas"},
       "website": "https://www.touchtunes.com",
       "startDate": "2007-11-02",
       "endDate": "2010-03-02",
@@ -105,7 +105,7 @@
     {
       "company": "Pervasive Software",
       "position": "QA Engineer (contract)",
-      "location": "Austin",
+      "location": { "city": "Austin", "region": "Texas"},
       "website": "http://www.pervasive.com",
       "startDate": "2007-02-02",
       "endDate": "2007-11-02",
@@ -118,7 +118,7 @@
     {
       "company": "Steve Madere Consulting",
       "position": "Software Developer",
-      "location": "Austin",
+      "location": { "city": "Austin", "region": "Texas"},
       "startDate": "2004-10-02",
       "endDate": "2007-02-02",
       "summary": "",
