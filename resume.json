@@ -26,6 +26,42 @@
       }
     ]
   },
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "Ruby",
+        "Rails",
+        "Python",
+        "Elixir",
+        "Ember JS",
+        "HTML",
+        "SCSS"
+      ]
+    },
+    {
+      "name": "DevOps",
+      "level": "Advanced",
+      "keywords": [
+        "AWS",
+        "GitLab CI",
+        "Docker",
+        "Kubernetes",
+        "Chef",
+        "Puppet"
+      ]
+    },
+    {
+      "name": "Leadership",
+      "level": "Intermediate",
+      "keywords": [
+        "Code Reviews",
+        "1-on-1s",
+        "Coaching"
+      ]
+    }
+  ],
   "work": [
     {
       "company": "Spiceworks",
