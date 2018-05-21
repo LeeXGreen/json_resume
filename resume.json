@@ -37,7 +37,7 @@
         "Elixir",
         "Ember JS",
         "HTML",
-        "SCSS"
+        "CSS"
       ]
     },
     {
@@ -74,11 +74,16 @@
       "summary": "Maker of tools and online community for IT pros.\nInitially hired as Senior and promoted at my first review.",
       "highlights": [
         "Team Lead of the Infrastructure team, reporting to the CTO",
-        "Project Lead on many high-impact projects",
+        "Project Lead on many high-impact projects:",
+          "* Multiple Ruby and Rails upgrades",
+          "* Full HTTPS web app conversion",
+          "* Migration to AWS",
+          "* JRuby to MRI (C Ruby) port",
         "Optimized performance of flagship web application",
         "Operated a weekly \"lunch and learn\" talk series",
         "Created a biweekly backend developer meeting for information sharing and professional development",
-        "Created and taught courses for intern onboarding"
+        "Created and taught courses on relational databases and Ruby for intern onboarding",
+        "Managed an intern for several summers, as well as a one-semester co-op"
       ]
     },
     {
@@ -90,7 +95,7 @@
       "endDate": "2014-09-02",
       "summary": "Provide software architecture / development / optimization services",
       "highlights": [
-        "Designed and built a stateful log parser to turn raw device logs into a rich event stream",
+        "Designed and built (in Python) a stateful log parser to turn raw device logs into a rich event stream",
         "Designed event data model to allow for flexible yet efficient queries",
         "Built a pipeline to handle these events, including enrichment and delivery to internal/third-party consumers"
       ]
@@ -105,7 +110,8 @@
         
       "highlights": [
         "Designed and implemented features and bugfixes at all levels of the web stack",
-        "Improved critical-path performance 20% by optimizing database indexes"
+        "Improved critical-path performance 20% by optimizing PostgreSQL database indexes",
+        "Converted existing server-rendered features into a single-page architecture with Ember JS"
       ]
     },
     {
@@ -117,11 +123,17 @@
       "endDate": "2014-03-02",
       "summary": "Digital media and jukebox company headquartered in Montreal, Quebec.\nI was the only Barfly engineer asked to relocate to Canada when the Austin office closed.",
       "highlights": [
-        "The go-to guy for quick solutions, rapid prototyping, and exploration of new tech",
+"The go-to guy for quick solutions, rapid prototyping, and exploration of new tech:",
+      "* TouchTunes Presents – built the MVP on a tight deadline",
+      "* Crowd-Sourced DJ, SXSW party – allow attendees to choose the music",
+      "* Real-time Analytics – evaluate analytics providers before full instrumentation",
 "Software architect and project lead for multiple 5-6 figure projects",
+      "* TouchTunesTV Canvas – completely customize in-venue messaging, pull content from Twitter",
+      "* PhotoBooth – customize app graphics on a per-jukebox basis, add venue logo",
 "Software architect / lead developer for Barfly / TouchTunesTV digital signage system",
 "Stepped in to lead the mobile / API team for 4 months, including on-time app launch",
-"Advocated for improvements to the development process, including Git and Vagrant"
+"Advocated for improvements to the development process, including Git and Vagrant",
+"Trained team members and coworkers; gave presentations promoting best practices"
       ]
     },
     {
@@ -133,9 +145,12 @@
       "endDate": "2010-03-02",
       "summary": "Digital signage startup focused on the out-of-home market: bars and restaurants.\nAcquired by TouchTunes in September 2008. I was engineer #3 of 5.",
       "highlights": [
-        "Built our own digital signage system in six months",
-        "Features included dynamic data-driven media, intelligent scheduling and targeting",
-        "Designed and implemented a self-hosted SMS application",
+        "Built our own digital signage system in six months, Features included:",
+        "* Dynamic data-driven media",
+        "* Remote automated system administration",
+        "* Intelligent scheduling and targeting",
+        "* Real-time log delivery and processing",
+        "Designed and implemented a self-hosted SMS application in Perl",
         "Wore all the hats: client, server, databases, web apps, hardware"
       ]
     },
@@ -149,7 +164,7 @@
       "summary": "Manual and automated testing of embeddable RDBMS and clients.",
       "highlights": [
         "Improved testing framework and process",
-        "Automated previously manual stress test"
+        "Automated previously manual stress test with Ant, Perl, and STAF"
       ]
     },
     {
@@ -160,9 +175,9 @@
       "endDate": "2007-02-02",
       "summary": "One-person consulting shop. Worked on internal and client projects.\nI started working part-time while in school and continued full-time after graduation.",
       "highlights": [
-        "Programmed in Perl, bash, C++ (STL)",
+        "Built scripts, libraries, and applications in Perl, bash, C++ (STL)",
         "Performed internet / market research and basic modeling",
-        "Set up and maintained a local server"
+        "Ordered, set up and maintained a local Linux server"
       ]
     }
   ],
