@@ -79,6 +79,7 @@
           "* Full HTTPS web app conversion",
           "* Migration to AWS",
           "* JRuby to MRI (C Ruby) port",
+          "* Creating a locally installable version of a cloud app",
         "Optimized performance of flagship web application",
         "Operated a weekly \"lunch and learn\" talk series",
         "Created a biweekly backend developer meeting for information sharing and professional development",
@@ -173,7 +174,7 @@
       "location": { "city": "Austin", "region": "Texas"},
       "startDate": "2004-10-02",
       "endDate": "2007-02-02",
-      "summary": "One-person consulting shop. Worked on internal and client projects.\nI started working part-time while in school and continued full-time after graduation.",
+      "summary": "Small software consulting shop. Worked on internal and client projects. I started working part-time while in school and continued full-time after graduation.",
       "highlights": [
         "Built scripts, libraries, and applications in Perl, bash, C++ (STL)",
         "Performed internet / market research and basic modeling",
