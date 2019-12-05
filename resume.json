@@ -7,7 +7,7 @@
     "phone": "(512) 412-8159",
     "summary": "Software architect and full-stack developer, experienced in building APIs and backend systems for web and mobile. Proven project and team leader with a history of leading both employees and consultants. Passionate about solving business problems with elegant software solutions. Adept at distilling clear technical specs from user requirements.",
     "location": {
-      "address": "4411 Spicewood Springs Rd #1805",
+      "address": "4411 Spicewood Springs Rd #501",
       "postalCode": "78759",
       "city": "Austin",
       "countryCode": "US",
@@ -34,8 +34,9 @@
         "Ruby",
         "Rails",
         "Python",
-        "Elixir",
-        "Ember JS",
+        "React",
+        "Ember",
+        "AngularJS",
         "HTML",
         "CSS"
       ]
@@ -65,12 +66,27 @@
   ],
   "work": [
     {
+      "company": "Gerson Lehrman Group",
+      "position": "Senior Software Engineer",
+      "location": { "city": "Austin", "region": "Texas"},
+      "website": "https://glg.it",
+      "startDate": "2019-01-02",
+      "endDate": "2019-12-31",
+      "summary": "Knowledge Marketplace matching Experts with Clients",
+      "highlights": [
+        "Developed and maintained internal workflow tools used by a substantial portion of the company",
+        "Created a new workflow tool using React. Use of this tool decreased average followup time by 60%",
+        "Updated AngularJS to a long-term supported version, ensuring the app could receive critical updates",
+        "Provided support to alpha and beta users"
+      ]
+    },
+    {
       "company": "Spiceworks",
       "position": "Staff Software Developer",
       "location": { "city": "Austin", "region": "Texas"},
       "website": "https://www.spiceworks.com",
       "startDate": "2014-06-02",
-      "endDate": "2018-11-30",
+      "endDate": "2018-12-31",
       "summary": "Maker of tools and online community for IT pros.\nInitially hired as Senior and promoted at my first review.",
       "highlights": [
         "Team Lead of the Infrastructure team, reporting to the CTO",
@@ -99,20 +115,6 @@
         "Designed and built (in Python) a stateful log parser to turn raw device logs into a rich event stream",
         "Designed event data model to allow for flexible yet efficient queries",
         "Built a pipeline to handle these events, including enrichment and delivery to internal/third-party consumers"
-      ]
-    },
-    {
-      "company": "DecisionGrid",
-      "position": "Senior Software Developer",
-      "location": { "city": "Austin", "region": "Texas"},
-      "startDate": "2014-03-02",
-      "endDate": "2014-05-02",
-      "summary": "Provider of technology and tools for data and intelligence gathering and visualization.\nThe company ceased operations not long after I came on board.",
-        
-      "highlights": [
-        "Designed and implemented features and bugfixes at all levels of the web stack",
-        "Improved critical-path performance 20% by optimizing PostgreSQL database indexes",
-        "Converted existing server-rendered features into a single-page architecture with Ember JS"
       ]
     },
     {
