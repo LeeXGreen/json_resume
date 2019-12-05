@@ -72,7 +72,7 @@
       "website": "https://glg.it",
       "startDate": "2019-01-02",
       "endDate": "2019-12-31",
-      "summary": "Knowledge Marketplace matching Experts with Clients",
+      "summary": "Knowledge marketplace/platform matching experts with clients.",
       "highlights": [
         "Developed and maintained internal workflow tools used by a substantial portion of the company",
         "Created a new workflow tool using React. Use of this tool decreased average followup time by 60%",
@@ -110,7 +110,7 @@
       "website": "",
       "startDate": "2014-03-02",
       "endDate": "2014-09-02",
-      "summary": "Provide software architecture / development / optimization services",
+      "summary": "Provide software architecture / development / optimization services.",
       "highlights": [
         "Designed and built (in Python) a stateful log parser to turn raw device logs into a rich event stream",
         "Designed event data model to allow for flexible yet efficient queries",
