@@ -75,7 +75,10 @@
       "summary": "Knowledge marketplace/platform matching experts with clients.",
       "highlights": [
         "Developed and maintained internal workflow tools used by a substantial portion of the company",
-        "Created a new workflow tool using React. Use of this tool decreased average followup time by 60%",
+        "Developed a change to a workflow tool. Projects using this tool observed:",
+          "* a 40% decrease in required follow-up calls with experts",
+          "* a 5% increase in calls booked",
+
         "Updated AngularJS to a long-term supported version, ensuring the app could receive critical updates",
         "Provided support to alpha and beta users"
       ]
@@ -176,10 +179,9 @@
       "location": { "city": "Austin", "region": "Texas"},
       "startDate": "2004-10-02",
       "endDate": "2007-02-02",
-      "summary": "Small software consulting shop. Worked on internal and client projects. I started working part-time while in school and continued full-time after graduation.",
+      "summary": "I started working part-time while in school and continued full-time after graduation.",
       "highlights": [
         "Built scripts, libraries, and applications in Perl, bash, C++ (STL)",
-        "Performed internet / market research and basic modeling",
         "Ordered, set up and maintained a local Linux server"
       ]
     }
