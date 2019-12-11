@@ -1,0 +1,22 @@
+{
+  "name": "lee-green-resume",
+  "version": "1.0.0",
+  "description": "Separate presentation from content when building a resume.",
+  "main": "index.js",
+  "scripts": {
+    "all": "npm run build && npm run fix_sub_bullets && npm run view",
+    "build": "resume export -t short resume-short.html",
+    "fix_sub_bullets": "ruby build_sub_bullets.rb resume-short.html",
+    "view": "open resume-short.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeeXGreen/json_resume.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeeXGreen/json_resume/issues"
+  },
+  "homepage": "https://github.com/LeeXGreen/json_resume#readme",
+}
